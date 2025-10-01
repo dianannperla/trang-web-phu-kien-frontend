@@ -1,6 +1,6 @@
 {
   "name": "trang-web-phu-kien-frontend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bộ công cụ và phụ kiện cho phát triển ứng dụng front-end",
   "main": "index.js",
   "scripts": {
