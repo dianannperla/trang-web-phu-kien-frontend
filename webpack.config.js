@@ -24,5 +24,5 @@ module.exports = {
     extensions: ['.js', '.jsx']
   },
   devtool: 'inline-source-map', // Updated for better debugging experience
-  mode: 'development'
+  mode: 'production'
 };
