@@ -1,0 +1,18 @@
+{
+  "name": "trang-web-phu-kien-frontend",
+  "version": "1.0.0",
+  "description": "Bộ công cụ và phụ kiện cho phát triển ứng dụng front-end",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "keywords": ["frontend", "ui-components", "react", "vue", "angular"],
+  "author": "Bạn",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "jest": "^27.0.0"
+  }
+}
